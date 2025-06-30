@@ -25,11 +25,17 @@ JavaScript
 You can clone the repo and open index.html in your browser:
 
 bash
+
 Copy
+
 Edit
+
 git clone https://github.com/Tripti-44/memory-game.git
+
 cd memory-game
+
 open index.html
+
 Or just double-click index.html in your file explorer.
 
 ---
