@@ -1,4 +1,5 @@
 🎮 Memory Game
+
 A simple browser-based memory card matching game. Built using HTML, CSS, and JavaScript, it challenges players to find matching pairs of cards by remembering their positions.
 
 ---
@@ -59,5 +60,7 @@ Make the layout fully responsive for mobile
 
 ---
 🙋‍♀️ Author
+
 Tripti
+
 Student at IGDTUW
